@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)](https://chaitanyaderangula.github.io)
+[![MasterHead](https://i.pinimg.com/564x/41/7c/62/417c6272d5856068eeb52e453681d5b3.jpg)](https://github.com/chaitanyaderangula)
 <h1 align="center">Hi 👋, I'm Derangula chaitanya</h1>
 <h3 align="center">A passionate python fullstack developer from India</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Django & Python Fullstack Development**
 
-- 👨‍💻 All of my projects are available at [https://chaitanyaderangula.github.io](https://chaitanyaderangula.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/chaitanyaderangula](https://github.com/chaitanyaderangula)
 
 - 💬 Ask me about **Python ,Django, Sql ,web**
 
@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitanyaderangula&show_icons=true&locale=en&layout=compact" alt="chaitanyaderangula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyaderangula&show_icons=true&locale=en" alt="chaitanyaderangula" /></p>
+
